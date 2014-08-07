@@ -1,0 +1,11 @@
+name: FreeForAll
+main: com.division.freeforall.core.FreeForAll
+version: 1
+description: Free For All PvP Minigame
+commands:
+   ffa:
+      description: Defines ffa region.
+      permission: freeforall.ffa
+      usage: /ffa define
+depend: [Vault]
+softdepend: [Factions]

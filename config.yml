@@ -1,0 +1,34 @@
+mysql:
+ host: localhost
+ port: 3306
+ username: root
+ passowrd: password
+region: {}
+StartingArmor:
+ Helmet: LEATHER_HELMET
+ Chestplate: LEATHER_CHESTPLATE
+ Leggings: LEATHER_LEGGINGS
+ Boots: LEATHER_BOOTS
+ Weapon1: WOOD_SWORD
+ Weapon2: WOOD_AXE
+ArmorUgrade1:
+ Helmet: CHAINMAIL_HELMET
+ Chestplate: CHAINMAIL_CHESTPLATE
+ Leggings: CHAINMAIL_LEGGINGS
+ Boots: CHAINMAIL_BOOTS
+ Weapon1: STONE_SWORD
+ Weapon2: STONE_AXE
+ArmorUgrade2:
+ Helmet: IRON_HELMET
+ Chestplate: IRON_CHESTPLATE
+ Leggings: CHAINMAIL_LEGGINGS
+ Boots: IRON_BOOTS
+ Weapon1: IRON_SWORD
+ Weapon2: IRON_AXE
+ArmorUgrade3:
+ Helmet: DIAMOND_HELMET
+ Chestplate: DIAMOND_CHESTPLATE
+ Leggings: DIAMOND_LEGGINGS
+ Boots: DIAMOND_BOOTS
+ Weapon1: DIAMOND_SWORD
+ Weapon2: DIAMOND_AXE
